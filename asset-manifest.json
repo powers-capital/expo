@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/expo/static/js/app.30f40289.chunk.js",
+    "app.js.map": "/expo/static/js/app.30f40289.chunk.js.map",
+    "runtime~app.js": "/expo/static/js/runtime~app.62747c51.js",
+    "runtime~app.js.map": "/expo/static/js/runtime~app.62747c51.js.map",
+    "static/js/2.50836df6.chunk.js": "/expo/static/js/2.50836df6.chunk.js",
+    "static/js/2.50836df6.chunk.js.map": "/expo/static/js/2.50836df6.chunk.js.map",
+    "fonts/AntDesign.ttf": "/expo/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/expo/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/expo/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/expo/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/expo/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/expo/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/expo/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/expo/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/expo/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/expo/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/expo/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/expo/./fonts/SimpleLineIcons.ttf",
+    "fonts/SpaceMono-Regular.ttf": "/expo/./fonts/SpaceMono-Regular.ttf",
+    "favicon-16.png": "/expo/favicon-16.png",
+    "favicon-32.png": "/expo/favicon-32.png",
+    "favicon.ico": "/expo/favicon.ico",
+    "index.html": "/expo/index.html",
+    "manifest.json": "/expo/manifest.json",
+    "serve.json": "/expo/serve.json",
+    "static/js/2.50836df6.chunk.js.LICENSE.txt": "/expo/static/js/2.50836df6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.62747c51.js",
+    "static/js/2.50836df6.chunk.js",
+    "static/js/app.30f40289.chunk.js"
+  ]
+}
